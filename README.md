@@ -1,2 +1,3 @@
 # aos-wow-plugin
-Wow &amp; Aos Plugin
+All js-jq plugin
+https://mdalamin006.github.io/js-jQ-plugin/
