@@ -1,0 +1,37 @@
+
+.head{
+    color:#f34e77;
+}
+
+.box {
+    height: 200px;
+    width: 100%;
+    margin-top: 20px;
+}
+
+.box1 {
+    background-color: #f39214;
+}
+
+.box2 {
+    background-color: #568dd4;
+}
+
+.box3 {
+    background-color: #f34e77;
+}
+.box4 {
+    background-color: #fcdce4;
+}
+.parallax-window {
+    min-height: 500px;
+    background: transparent;
+}
+#port {
+    background: rgb(47, 49, 52);
+    margin: 1.5em 0px;
+    overflow: hidden;
+    position: relative;
+    height: 300px;
+    max-width: 600px;
+}
